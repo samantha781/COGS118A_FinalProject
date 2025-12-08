@@ -1,7 +1,7 @@
 # COGS 118A Final Project
-# Source Code for the Project 
+Source Code for the Project 
 
-# Notes for GIT
+Notes for GIT:
 
 add files (git)
 > `git add .`
